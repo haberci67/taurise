@@ -1,0 +1,2 @@
+# taurise
+bitcoin yatırım
